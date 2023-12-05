@@ -37,8 +37,6 @@ h1 {
   height: 100vh;
 }
 
-@media (min-width: 500px) {
-  body {
-    overflow: auto;
-  }
+body {
+  overflow-x: hidden;
 }
