@@ -1,0 +1,39 @@
+@charset "UTF-8";
+/*  @font-face {
+  font-family: "TestSöhne-Buch";
+  src: url("TestSöhne/TestSöhne-Buch.otf");
+}
+
+* {
+  font-family: "TestSöhne-Buch";
+}
+*/
+* {
+  font-family: "Open Sans", sans-serif;
+}
+
+/* header .col-md-6 {
+  background: url("../images/sparkles.svg") center center no-repeat;
+  background-size: cover;
+}
+*/
+.helvig {
+  font-family: "Hedvig Letters Serif", serif;
+}
+
+.green,
+#explore {
+  background: #a0b0a2;
+  border-radius: 10px;
+}
+
+h1 {
+  font-family: "Hedvig Letters Serif", serif;
+}
+
+.sparkle {
+  background: url("https://steep.app/images/home/joins-sparkles.svg") center center no-repeat;
+  background-size: cover;
+  background-size: auto;
+  height: 100vh;
+}
